@@ -1,3 +1,4 @@
+//this code makes a rocket using user input
 import java.util.Scanner;
 public class rocket {
         Scanner scnr = new Scanner(System.in);
